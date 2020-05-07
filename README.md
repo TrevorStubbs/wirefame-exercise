@@ -7,6 +7,6 @@
     - Use placeholder images during the setup process
     - know where text will go and use place holder text
 1. Setup Template
-1. Build out all the HTML wihtout applying any classes or IDs
-1 Working top to bottom in the doc, put eleemnts into play with css, using the structure of the HTML to create selectors wherever it is possible. seek to limit use of classes and ids
-1. apply color, backgrounds, borders text styleing, 
+1. Build out all the HTML without applying any classes or IDs
+1 Working top to bottom in the doc, put elements into play with css, using the structure of the HTML to create selectors wherever it is possible. seek to limit use of classes and ids
+1. apply color, backgrounds, borders text styling, 
