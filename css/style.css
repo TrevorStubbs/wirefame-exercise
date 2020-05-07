@@ -1,4 +1,54 @@
-*{
+
+body{
+  width: 1000px;
   background-color: rgb(191, 191, 255);
-  color: red;
+  color: rgb(46, 4, 4);
+  margin: 10px;
+  border: 1px solid black;
 }
+
+nav{
+  width: 960px;
+  height: 70px;
+  border: 1px solid black;
+  margin:15px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+  float:right; 
+}
+
+li{
+  width: 190px;
+  height: 70px;
+  padding-top: 25px;
+  float: left;
+  text-align: center;
+  color: rgb(31, 3, 3);
+}
+
+section{
+  margin: 10px;
+  float: center;
+}
+
+.hero{
+  margin-left: 15px;
+  width: 960px;
+}
+
+.subBanner{
+  margin-right: 26px;
+}
+
+#right-banner{
+  margin-right: 0;
+}
+
+#nav-section{
+  margin:0px;
+  background-color: rgb(182, 182, 182);
+} 
