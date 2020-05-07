@@ -1,4 +1,94 @@
-*{
-  background-color: rgb(191, 191, 255);
-  color: red;
+html{
+  background-color: black;
+}
+
+body{
+  width: 1000px;
+  background-color: white;
+  color: black(46, 4, 4);
+  margin: auto;
+}
+
+h1{
+  font-size: 35px;
+}
+
+nav{
+  width: 960px;
+  height: 70px;
+  font-size: 20px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  float:right; 
+}
+
+li{
+  width: 190px;
+  height: 45px;
+  padding-top: 25px;
+  float: left;
+  text-align: center;
+  color: rgb(167, 167, 167);
+}
+
+li:hover{
+  background-color: black;
+}
+
+section{
+  margin: 15px;
+  float: center;
+}
+
+aside{
+  width: 480px;
+  height: 400px;
+  float: right;
+  margin-right:10px;
+}
+
+article{
+  margin-right: 15px;
+  height: 320px;
+  font-size: 21px;
+  overflow: auto;
+}
+
+button{
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.hero{
+  margin-left: 15px;
+  width: 960px;
+}
+
+.subBanner{
+  margin-right: 26px;
+}
+
+#right-banner{
+  margin-right: 0;
+}
+
+#nav-section{
+  margin:0px;
+  background-color: rgb(66, 65, 65);
+} 
+
+#feature-banner{
+  display: inline;
+}
+
+#bottom{
+  height: 100px;
+  background-color: rgb(66, 65, 65);
+  margin: 0px;
+  margin-top: 15px
 }
